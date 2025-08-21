@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "A0FFFFFE294A1234567890AB"
+               BlueprintIdentifier = "1A2B3C4D5E6F7890ABCD122F"
                BuildableName = "DynamicSchemaApp.app"
                BlueprintName = "DynamicSchemaApp"
                ReferencedContainer = "container:DynamicSchemaApp.xcodeproj">
@@ -43,7 +43,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A0FFFFFE294A1234567890AB"
+            BlueprintIdentifier = "1A2B3C4D5E6F7890ABCD122F"
             BuildableName = "DynamicSchemaApp.app"
             BlueprintName = "DynamicSchemaApp"
             ReferencedContainer = "container:DynamicSchemaApp.xcodeproj">
@@ -60,7 +60,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A0FFFFFE294A1234567890AB"
+            BlueprintIdentifier = "1A2B3C4D5E6F7890ABCD122F"
             BuildableName = "DynamicSchemaApp.app"
             BlueprintName = "DynamicSchemaApp"
             ReferencedContainer = "container:DynamicSchemaApp.xcodeproj">
