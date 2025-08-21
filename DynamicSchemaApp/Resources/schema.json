@@ -1,0 +1,148 @@
+{
+  "cards": [
+    {
+      "id": "user-info",
+      "title": "User Information",
+      "fields": [
+        {
+          "id": "name",
+          "type": "text",
+          "label": "Name",
+          "placeholder": "Enter your name"
+        },
+        {
+          "id": "notifications",
+          "type": "toggle",
+          "label": "Receive Notifications",
+          "value": true
+        },
+        {
+          "id": "profile-photo",
+          "type": "photo",
+          "label": "Profile Photo"
+        },
+        {
+          "id": "categories",
+          "type": "choiceChip",
+          "label": "Preferred Categories",
+          "multipleSelection": true,
+          "options": [
+            {
+              "id": "tech",
+              "title": "Technology"
+            },
+            {
+              "id": "design",
+              "title": "Design"
+            },
+            {
+              "id": "business",
+              "title": "Business"
+            },
+            {
+              "id": "health",
+              "title": "Health"
+            },
+            {
+              "id": "education",
+              "title": "Education"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "preferences",
+      "title": "Preferences",
+      "fields": [
+        {
+          "id": "dark-mode",
+          "type": "toggle",
+          "label": "Dark Mode Enabled",
+          "value": false
+        },
+        {
+          "id": "favorite-color",
+          "type": "text",
+          "label": "Favorite Color",
+          "placeholder": "Enter your favorite color"
+        },
+        {
+          "id": "experience-level",
+          "type": "choiceChip",
+          "label": "Experience Level",
+          "multipleSelection": false,
+          "options": [
+            {
+              "id": "beginner",
+              "title": "Beginner"
+            },
+            {
+              "id": "intermediate",
+              "title": "Intermediate"
+            },
+            {
+              "id": "advanced",
+              "title": "Advanced"
+            }
+          ]
+        },
+        {
+          "id": "workspace-photo",
+          "type": "photo",
+          "label": "Workspace Photo"
+        }
+      ]
+    },
+    {
+      "id": "additional-info",
+      "title": "Additional Information",
+      "fields": [
+        {
+          "id": "bio",
+          "type": "text",
+          "label": "Bio",
+          "placeholder": "Tell us about yourself"
+        },
+        {
+          "id": "interests",
+          "type": "choiceChip",
+          "label": "Interests",
+          "multipleSelection": true,
+          "options": [
+            {
+              "id": "reading",
+              "title": "Reading"
+            },
+            {
+              "id": "traveling",
+              "title": "Traveling"
+            },
+            {
+              "id": "cooking",
+              "title": "Cooking"
+            },
+            {
+              "id": "sports",
+              "title": "Sports"
+            },
+            {
+              "id": "music",
+              "title": "Music"
+            },
+            {
+              "id": "photography",
+              "title": "Photography"
+            }
+          ]
+        },
+        {
+          "id": "newsletter",
+          "type": "toggle",
+          "label": "Subscribe to Newsletter",
+          "value": false
+        }
+      ]
+    }
+  ]
+}
